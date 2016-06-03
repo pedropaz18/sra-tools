@@ -43,13 +43,12 @@ SUBDIRS =    \
 	align-info      \
 	align-cache     \
 	vdb-dump        \
-	ref-variation   \
 	vdb-validate    \
 	kar             \
     copycat         \
 	fastdump        \
 
-# under construction    
+# under construction
 #    ngs-pileup      \
 
 # common targets for non-leaf Makefiles; must follow a definition of SUBDIRS
